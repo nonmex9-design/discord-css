@@ -1,0 +1,5 @@
+name = "discord-css"
+compatibility_date = "2025-11-20"
+
+[site]
+bucket = "./site"
