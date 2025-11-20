@@ -1,6 +1,2 @@
 name = "discord-css"
 compatibility_date = "2025-11-20"
-main = "workers-site/index.js"
-
-[site]
-bucket = "./site"
